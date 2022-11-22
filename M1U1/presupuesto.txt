@@ -1,1 +1,2 @@
 comprobar que anda git ignore
+prueba 2
